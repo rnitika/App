@@ -5,7 +5,7 @@ $url = 'C:\Users\Nitika\Desktop\Hostel\images';
 <html lang ="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="description" contents="About my new hostel website">
+        <meta name="description" contents="This is my new hostel website">
         <link rel="stylesheet" href="style.css" type="text/css">
     <title> Welcome to our Hostel! </title>
     </head>
