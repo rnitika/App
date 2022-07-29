@@ -2,7 +2,7 @@
 <html lang ="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="description" contents="About my new hostel website">
+        <meta name="description" contents="This is my new hostel website">
         <link rel="stylesheet" href="style.css" type="text/css">
     
     </head>
